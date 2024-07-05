@@ -1,0 +1,493 @@
+.top-list li {
+    display: inline-block;
+    padding: 0 0 0 13px;
+    color: white;
+}
+.section-one {
+    padding-top: 20px;
+    background-color: cornflowerblue;
+}
+.top-class i{
+    padding-right: 8px;
+}
+.top-class{
+    color: white;
+}
+.list-right li {
+    display: inline-block;
+    padding-right: 26px;
+    padding-top: 24px;
+}
+.logo-image img {
+    width: 196px;
+    padding-top: 7px;
+}
+.logo-image h2 {
+    position: absolute;
+    top: 10px;
+    left: 42px;
+    font-size: 37px;
+}
+ul {
+    padding: 0;
+}
+.srch-icn {
+    padding-top: 24px;
+    font-size: 21px;
+}
+.section-three {
+    height: 600px;
+    background-image: url(../images/qq.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.sec-thre-line {
+    background: cornflowerblue;
+    top: 99%;
+    left: 22%;
+    padding: 33px 48px;
+    margin-top: 14%;
+    margin-left: 14%;
+}
+.section-two {
+    padding: 14px 0;
+}
+.sec-thre-line h4 {
+    font-size: 48px;
+    color: white;
+}
+.sec-thre-line p {
+    padding-top: 13px;
+    color: white;
+    font-size: 16px;
+}
+.fourth-line img {
+    width: 27%;
+}
+.section-fourth {
+    padding: 96px 0;
+}
+.line-three {
+    text-align: center;
+    background: aliceblue;
+    padding: 34px 8px;
+}
+.fourth-line h4 {
+    padding-top: 27px;
+    padding-bottom: 11px;
+    font-family: system-ui;
+}
+.sec-five-imag img {
+    width: 100%;
+}
+
+.five-icon h4 {
+    font-size: 36px;
+    padding-bottom: 9px;
+}
+.sect-fift-icon h3 {
+    font-size: 23px;
+}
+.icon-peragrapg img {
+    width: 20%;
+}
+.icon-peragrapg {
+    text-align: center;
+    background: aliceblue;
+    padding: 29px 13px;
+}
+.row.botom-row {
+    padding: 26px 0 0 0;
+}
+.icon-peragrapg h5 {
+    padding: 19px 0 9px 0;
+    font-size: 20px;
+}
+.sec-six {
+    padding: 90px 0;
+}
+.hed-section {
+    text-align: center;
+    padding-bottom: 35px;
+}
+.fa-search {
+    padding-top: 22px;
+    font-size: 24px;
+}
+
+/* multiple slide-box */
+
+.carousel {
+    width: 100%;
+  }
+  
+  .slide-box {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    .slide-box img {
+      -ms-flex: 0 0 50%;
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    .slide-box img {
+      -ms-flex: 0 0 33.3333%;
+      flex: 0 0 33.3333%;
+      max-width: 33.3333%;
+    }
+  }
+  
+  @media (min-width: 992px)
+  {
+    .slide-box img {
+      -ms-flex: 0 0 25%;
+      flex: 0 0 25%;
+      max-width: 25%;
+    }
+  }
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: .5rem;
+  }
+     /* multiple slide-box */
+
+  section.section-saventh {
+    padding-bottom: 80px;
+}
+  .textbox {
+    height: 700px;
+  }
+  
+  .progress {
+    margin-bottom: 10px;
+  }
+  
+  .progress-bar {
+    width: 0;
+  }
+
+  .teb-btn {
+    padding: 11px 44px 15px 30px;
+    color: white;
+    border: none;
+    background: dodgerblue;
+    margin-top: 9%;
+    margin-left: 36px;
+}
+.progres-section {
+    background: rgb(247, 244, 244);
+    padding-top: 56px;
+}
+.progres-section h2 {
+    padding-bottom: 25px;
+}
+.progres-section h2 {
+    padding-bottom: 25px;
+    font-size: 43px;
+}
+.hading-one {
+    padding: 11px;
+}
+.image-one img {
+    width: 100%;
+    margin-left: 34px;
+}
+.top-hed {
+    text-align: center;
+    padding: 35px 0 52px 0;
+}
+.cursel-section {
+    text-align: center;
+    background: aliceblue;
+    padding-top: 6%;
+    padding-bottom: 56px;
+    padding-left: 34px;
+}
+.cursel-section p {
+    padding: 0 0 34px 0;
+    font-size: 22px;
+}
+.carsel-name h4 {
+    padding-top: 21px;
+    margin: 0 auto;
+}
+.slid-imgs {
+    border-radius: 100%;
+    width: 16%;
+}
+.qute-icon {
+    font-size: 46px;
+    padding-bottom: 10px;
+    color: gainsboro;
+}
+.list-class li {
+    background: #686894;
+    margin: 0 2px;
+}
+.image-bottom {
+    padding-top: 63px;
+    padding-bottom: 44px;
+    text-align: center;
+}
+.sec-ten {
+    background: whitesmoke;
+}
+.section-nine {
+    margin-bottom: 61px;
+}
+.slide-box img {
+    margin: 0 0 0 13px;
+}
+.carousel-bix {
+    position: absolute;
+    top: 101%;
+}
+
+.list-class li {
+    padding: 0px 9px;
+}
+.our-teem input {
+    background: aliceblue;
+    padding: 25px 24px;
+    border: none;
+}
+
+
+
+
+
+.slid-text {
+    text-align: center;
+    background: whitesmoke;
+    padding: 4px 7px;
+}
+.slid-text h6 {
+    margin: 0 auto;
+    padding-top: 10px;
+    font-size: 23px;
+}
+.left.carousel-control {
+    position: absolute;
+    top: 18%;
+    right: 101%;
+    font-size: 65px;
+}
+.right.carousel-control {
+    position: absolute;
+    top: 16%;
+    right: -32px;
+    font-size: 63px;
+}
+.section-eeli {
+    padding: 59px 0 119px 0;
+}
+.top-hed p {
+    padding-top: 15px;
+    font-size: 22px;
+    font-family: 'FontAwesome';
+}
+.box-icon-m {
+    position: absolute;
+    top: 21%;
+    right: 80%;
+    font-size: 47px;
+}
+.box-icon-n {
+    position: absolute;
+    left: 50px;
+    top: 42%;
+    font-size: 45px;
+}
+.box-icon-o {
+    position: absolute;
+    top: 60%;
+    left: 14%;
+    font-size: 37px;
+}
+.box-icon-p {
+    position: absolute;
+    top: 79%;
+    left: 15%;
+    font-size: 41px;
+}
+.font-icons {
+    padding: 12px 0 0 111px;
+}
+.front-icon-h {
+    background: dodgerblue;
+    padding: 30px 0;
+    color: white;
+}
+.front-icon-j {
+    padding: 0px 0px 0 38px;
+    font-size: 30px;
+}
+
+.slid-d-text img {
+    border-radius: 100%;
+}
+.froms-front {
+    position: absolute;
+    top: 85%;
+    left: 142px;
+}
+.slid-d-text h5 {
+    position: absolute;
+    top: 84%;
+    left: 74px;
+}
+.slid-d-text {
+    background: whitesmoke;
+    padding: 23px 0px 35px 18px;
+}
+.search-icon-foot {
+    position: absolute;
+    top: 0px;
+    right: 15px;
+    background-color: cornflowerblue;
+    padding: 23px 32px 25px 29px;
+    color: #fff;
+    font-size: 22px;
+}
+.mid-section img {
+    width: 65%;
+}
+.mid-section h4 {
+    padding-top: 30px;
+    font-size: 21px;
+    font-family: initial;
+}
+button {
+    padding: 16px 47px;
+    margin-top: 47px;
+    border: none;
+    background-color: cornflowerblue;
+}
+.font-icon p {
+    padding-left: 76px;
+    padding-top: 20px;
+}
+.box-icon-g {
+    position: absolute;
+    top: 76px;
+    left: 48px;
+    font-size: 29px;
+    color: cornflowerblue;
+}
+.box-icon-t {
+    position: absolute;
+    left: 47px;
+    top: 43%;
+    font-size: 21px;
+    color: cornflowerblue;
+}
+.box-icon-f {
+    position: absolute;
+    left: 46px;
+    top: 62%;
+    color: cornflowerblue;
+}
+.box-icon-r {
+    position: absolute;
+    top: 81%;
+    left: 44px;
+    font-size: 22px;
+    color: cornflowerblue;
+}
+.top-wr-sec {
+    padding: 14px 0 73px 0;
+   
+}
+.top-wr-smc {
+    padding: 44px 0 80px 0;
+    border-bottom: 2px solid wheat;
+    border-top: 2px solid wheat;
+}
+.right-list li {
+    display: inline-block;
+    padding: 0 14px 0 0;
+    font-size: 22px;
+    float: right;
+
+}
+.end-line {
+    padding: 19px 0;
+}
+.section-mm {
+    background: #1d1c1c;
+    color: white;
+    padding-top: 98px;
+}
+.lefts-imgs-sum {
+    padding: 15px 0 0 89px;
+    font-size: 14px;
+}
+img.im-w-j {
+    position: absolute;
+    top: 72px;
+    left: 7px;
+}
+.l-t-p {
+    color: cornflowerblue;
+}
+.lebfts-imgs-sum {
+    padding: 5px 0 0 93px;
+}
+.im-nw-j {
+    position: absolute;
+    left: 7px;
+}
+.lfts-imgs-sum {
+    padding: 22px 0 0 92px;
+}
+.im-wn-j {
+    position: absolute;
+    left: 7px;
+    top: 77%;
+}
+input#name {
+    padding: 34px 16px;
+}
+
+.sectfft-icon {
+    padding: 0 0 0 78px;
+}
+.sec-ofift-icon {
+    position: absolute;
+    left: -8px;
+    top: 149px;
+}
+.sectfift-icon h3 {
+    position: absolute;
+    top: 68%;
+    left: 112px;
+    font-size: 19px;
+}
+.sectfift-icon p {
+    position: absolute;
+    left: 115px;
+    top: 75%;
+}
+.sectfft-icon h3 {
+    font-size: 23px;
+}
+.sec-fift-icon {
+    position: absolute;
+    top: 68%;
+    left: 0;
+}
+.sec-five {
+    background: aliceblue;
+    padding-top: 71px;
+}
+.five-icon h4 {
+    font-size: 37px;
+    padding-bottom: 14px;
+}
